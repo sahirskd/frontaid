@@ -14,6 +14,6 @@
     }
   ],
   "rte-content": {
-    "textWithFormatting": "<p>This is my paragraph and it is written by a CMS </p><h1>this is coee </h1><p><code>&lt;span&gt;HTML content &lt;/span&gt;</code></p>"
+    "textWithFormatting": "<p>This is my paragraph and it is written by a CMS </p><h1>this is coee </h1><pre><code>&lt;span&gt;HTML content &lt;/span&gt;</code></pre>"
   }
 }
