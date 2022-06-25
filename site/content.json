@@ -12,5 +12,8 @@
     {
       "custom-list-item": "list item 1"
     }
-  ]
+  ],
+  "rte-content": {
+    "textWithFormatting": "<p>This is my paragraph and it is written by a CMS </p><h1>this is coee </h1>"
+  }
 }
