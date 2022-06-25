@@ -1,1 +1,19 @@
-{}
+{
+  "custom-field": "This is description",
+  "custom-object": {
+    "custom-line": "This is custom line",
+    "custom-text": "This is \ncustom \ntext"
+  },
+  "custom-list": [
+    {},
+    {
+      "custom-list-item": "list item 3"
+    },
+    {
+      "custom-list-item": "list item 2"
+    },
+    {
+      "custom-list-item": "list item 1"
+    }
+  ]
+}
